@@ -1,0 +1,12 @@
+{
+  "name": "sec-seven",
+  "displayName": "sec-seven",
+  "expo": {
+    "name": "sec-seven",
+    "slug": "sec-seven",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
